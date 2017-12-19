@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="outRadius" format="dimension"/>
+    <attr name="innerRadius" format="dimension"/>
+    <attr name="dividerLine" format="dimension"/>
+
+    <declare-styleable name="EfficientClock">
+        <attr name="outRadius"/>
+        <attr name="innerRadius"/>
+        <attr name="dividerLine"/>
+    </declare-styleable>
+</resources>
